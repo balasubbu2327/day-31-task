@@ -1,0 +1,23 @@
+body {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.container {
+  padding-top: 25px !important;
+}
+
+.img > img {
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+  align-items: center;
+}
+
+.view {
+  width: 100% !important;
+  margin: 100px auto !important;
+}
+
+img {
+  object-fit: cover !important;
+}
